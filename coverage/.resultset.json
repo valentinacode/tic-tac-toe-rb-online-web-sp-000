@@ -2,9 +2,15 @@
   "RSpec": {
     "coverage": {
       "/home/valentinacode/tic-tac-toe-rb-online-web-sp-000/lib/tic_tac_toe.rb": [
-
+        1,
+        5,
+        5,
+        5,
+        5,
+        5,
+        null
       ]
     },
-    "timestamp": 1590595540
+    "timestamp": 1590595564
   }
 }
