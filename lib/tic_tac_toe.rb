@@ -1,6 +1,7 @@
 def play(board) 
 puts "Welcome to Tic Tac Toe!"
 board = [" "," "," "," "," "," "," "," "," "]
+end
 
 
 def display_board(board)
